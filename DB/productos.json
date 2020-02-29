@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5e4581300f084d282457263f"},"nombre":"Camisa Nodejs","precio":3700,"imagen":"Spl5nO58.jpeg","__v":0}
+{"_id":{"$oid":"5e4581400f084d2824572640"},"nombre":"Camisa Github","precio":2500,"imagen":"y9q56MTZ.jpeg","__v":0}
+{"_id":{"$oid":"5e4ae703bdcfd20198031e79"},"nombre":"camisa Drupal","precio":3500,"imagen":"HTHt-hQJ.jpeg","__v":0}
+{"_id":{"$oid":"5e4ae823bdcfd20198031e7f"},"nombre":"Camisa TS","precio":1200,"imagen":"SeY7Oj1i.jpeg","__v":0}

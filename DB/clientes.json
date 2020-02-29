@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5e4562eb0fdd6136e03cac18"},"nombre":"Karla","apellido":"Romero","empresa":"Tessi","email":"karl@live.com","telefono":"+56957432176","__v":0}
+{"_id":{"$oid":"5e4881e25d43510b989b25ba"},"nombre":"Diego","apellido":"Araya","empresa":"Accenture","email":"diegoarayamonte@outlook.com","telefono":"967675413","__v":0}
+{"_id":{"$oid":"5e4883661741d121ec50a963"},"nombre":"Pedro","apellido":"Lacayo","empresa":"Crm","email":"correo@live.com","telefono":"45678912","__v":0}
+{"_id":{"$oid":"5e48844a1741d121ec50a964"},"nombre":"Teseo","apellido":"Larry","empresa":"Mrb","email":"correo1@correo.com","telefono":"12345678","__v":0}
