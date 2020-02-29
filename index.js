@@ -13,6 +13,8 @@ mongoose.connect(process.env.DB_URL, { useNewUrlParser: true, useUnifiedTopology
 mongoose.set('useCreateIndex', true);
 // crear el servidor
 const app = express()
+    //Carpeta publica
+app.use(express.static('uploads'))
 
 // Habilitar body-parser
 app.use(bodyParser.json())
@@ -38,10 +40,6 @@ app.use(cors(corsOptions))
 
 // Rutas de la app
 app.use('/', routes())
-
-//Carpeta publica
-app.use(express.static('uploads'))
-
 
 const host = process.env.HOST || '0.0.0.0'
 const port = process.env.PORT || 5000
